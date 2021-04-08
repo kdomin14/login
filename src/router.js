@@ -5,7 +5,7 @@ import Secret from './views/Secret.vue'
 import Login from './views/Login.vue'
 import NotFound from './views/NotFound.vue'
 
-import {isAuthenticated} from './helpers/useAuth'
+import {isAuthenticated} from './helpers/useFirebase'
 
 const routes = [
     {path: '/', component: Home }, {path: '/secret', component: Secret, 

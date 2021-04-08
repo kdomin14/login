@@ -42,7 +42,7 @@
 
 <script setup>
 import { useRouter } from 'vue-router'
-import { isAuthenticated } from '../helpers/useAuth.js'
+import { isAuthenticated } from '../helpers/useFirebase.js'
 const router = useRouter()
 const logout = () => {
   isAuthenticated.value = false

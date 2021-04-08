@@ -1,25 +1,48 @@
 <template>
-    <section class="max-w2xl mx-auto rounded bg-content-800">
-	<div class="container flex items-center justify-center text-center">
-		<form @submit.prevent class="flex flex-col w-full max-w-lg p-12 rounded shadow-lg">
-			<label for="username" class="self-start text-xs font-semibold text-content-200">Username or Email</label>
-			<input id="username" type="text" class="flex items-center h-12 px-4 mt-2 rounded focus:outline-none focus:ring-2 text-coolGray-900">
-			<label for="password" class="self-start mt-3 text-xs font-semibold text-content-200">Password</label>
-			<input id="password" type="password" class="flex items-center h-12 px-4 mt-2 rounded focus:outline-none focus:ring-2 text-coolGray-900">
-			<button 
-            @click.prevent="login"
-            class="btn btn-primary mt-4">Login</button>
-		</form>
-	</div>
-</section>
+  <section
+    class="container flex items-center justify-center text-center bg-content-800 rounded-xl mx-auto mt-24 max-w-md"
+  >
+    <form @submit.prevent class="flex flex-col w-full p-12 shadow-lg">
+      <label
+        for="username"
+        class="self-start text-xs font-semibold text-content-200"
+        >Email</label
+      >
+      <input
+        id="username"
+        type="text"
+        class="flex items-center h-12 px-4 mt-2 bg-gray-200 rounded focus:outline-none focus:ring-2"
+        v-model="email"
+      />
+      <label
+        for="password"
+        class="self-start mt-3 text-xs font-semibold text-content-200"
+        >Password</label
+      >
+      <input
+        id="password"
+        type="password"
+        class="flex items-center h-12 px-4 mt-2 bg-gray-200 rounded focus:outline-none focus:ring-2"
+        v-model="password"
+      />
+      <button @click="login" class="btn btn-accent mt-8">Login</button>
+    </form>
+  </section>
 </template>
 
 <script setup>
-import {useRouter} from 'vue-router' 
-import { isAuthenticated } from '../helpers/useAuth'
+import { ref } from 'vue'
+import { useRouter } from 'vue-router'
+import { signIn } from '../helpers/useFirebase'
 const router = useRouter()
-const login =() => {
-	isAuthenticated.value = true 
-	router.push('/')
+const login = async () => {
+  try {
+    await signIn(email.value, password.value)
+    router.push('/')
+  } catch (error) {
+    console.log(error)
+  }
 }
+const email = ref('')
+const password = ref('')
 </script>
