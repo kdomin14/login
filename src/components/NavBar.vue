@@ -12,6 +12,30 @@
         >
           Home
         </router-link>
+        <router-link
+          to="/NBA"
+          class="btn btn-ghost btn-sm rounded-btn hover:text-content-100"
+        >
+          NBA
+        </router-link>
+        <router-link
+          to="/NFL"
+          class="btn btn-ghost btn-sm rounded-btn hover:text-content-100"
+        >
+          NFL
+        </router-link>
+        <router-link
+          to="/MLB"
+          class="btn btn-ghost btn-sm rounded-btn hover:text-content-100"
+        >
+          MLB
+        </router-link>
+        <router-link
+          to="/Cart"
+          class="btn btn-ghost btn-sm rounded-btn hover:text-content-100"
+        >
+          Cart
+        </router-link>
         <div v-if="!isAuthenticated">
           <router-link
             to="/login"
