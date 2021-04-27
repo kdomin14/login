@@ -31,7 +31,7 @@
           MLB
         </router-link>
         <router-link
-          to="/Cart"
+          to="/Cartnp"
           class="btn btn-ghost btn-sm rounded-btn hover:text-content-100"
         >
           Cart
