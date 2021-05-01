@@ -6,52 +6,688 @@
     <img src="../assets/basketball.jpg">
   </figure> 
   <div class="justify-end card-body">
-    <h1 class="card-title">NBA</h1> 
-    <p>Rerum reiciendis beatae tenetur excepturi aut pariatur est eos. Sit sit necessitatibus veritatis sed molestiae voluptates incidunt iure sapiente.</p> 
+    <h1 class="card-title">NBA</h1>  
     <div class="card-actions">
-      <button class="btn btn-primary">Get Started</button>
     </div>
   </div>
 </div> 
-<div class="card lg:card-side bordered">
-  <figure>
-    <img src="https://picsum.photos/id/1005/400/250">
-  </figure> 
-  <div class="card-body">
-    <h2 class="card-title">Horizontal</h2> 
-    <p>Rerum reiciendis beatae tenetur excepturi aut pariatur est eos. Sit sit necessitatibus veritatis sed molestiae voluptates incidunt iure sapiente.</p> 
-    <div class="card-actions">
-      <button class="btn btn-primary">Get Started</button> 
-      <button class="btn btn-ghost">More info</button>
-    </div>
+<main>
+  <div class="columns is-centered is-multiline" data-v-48008f02="">
+    <div class="card column is-one-quarter" data-v-48008f02="">
+    <div data-v-f94408ce="" data-v-48008f02="">
+    <div class="card-image" data-v-f94408ce="">
+  <figure class="image is-4by3" data-v-f94408ce="">
+  <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" data-v-f94408ce="">
+  </figure>
+  </div> 
+  <div class="card-content" data-v-f94408ce="">
+  <div class="media" data-v-f94408ce="">
+  <div class="media-content" data-v-f94408ce="">
+  <p class="title is-4" data-v-f94408ce="">Product 1</p>
+  </div> 
+  <div data-v-f94408ce="">
+  <button title="Remove from favourite" class="button is-small" style="display:none" data-v-f94408ce="">
+  <span class="icon is-small" data-v-f94408ce="">
+  <i class="fa fa-heart" data-v-f94408ce="">
+  </i></span></button> 
+  <button title="Add to favourite" class="button is-small" data-v-f94408ce="">
+  <span class="icon is-small" data-v-f94408ce="">
+  <i class="fa fa-heart-o" data-v-f94408ce="">
+  </i>
+  </span>
+  </button>
   </div>
-</div> 
-<div class="card lg:card-side bordered">
-  <figure>
-    <img src="https://picsum.photos/id/1005/400/250">
-  </figure> 
-  <div class="card-body">
-    <h2 class="card-title">Horizontal</h2> 
-    <p>Rerum reiciendis beatae tenetur excepturi aut pariatur est eos. Sit sit necessitatibus veritatis sed molestiae voluptates incidunt iure sapiente.</p> 
-    <div class="card-actions">
-      <button class="btn btn-primary">Get Started</button> 
-      <button class="btn btn-ghost">More info</button>
-    </div>
   </div>
-</div> 
-<div class="card lg:card-side bordered">
-  <figure>
-    <img src="https://picsum.photos/id/1005/400/250">
-  </figure> 
-  <div class="card-body">
-    <h2 class="card-title">Horizontal</h2> 
-    <p>Rerum reiciendis beatae tenetur excepturi aut pariatur est eos. Sit sit necessitatibus veritatis sed molestiae voluptates incidunt iure sapiente.</p> 
-    <div class="card-actions">
-      <button class="btn btn-primary">Get Started</button> 
-      <button class="btn btn-ghost">More info</button>
+   <div class="content is-clearfix" data-v-f94408ce="">
+   <p data-v-f94408ce=""> Lorem ipsum dolor sit amet, consectetur adipiscing elit
+   </p> 
+   <div class="is-pulled-left" data-v-f94408ce="">
+   <!----> <!----> <!----> 
+   <i class="fa fa-star" data-v-f94408ce="">
+   </i> 
+   <i class="fa fa-star" data-v-f94408ce="">
+   </i> 
+   <i class="fa fa-star" data-v-f94408ce=""></i>
+    <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> 
+    <p data-v-f94408ce="">5 Reviews</p>
+    </div> 
+    <p class="is-pulled-right" data-v-f94408ce="">
+    <span class="title is-4" data-v-f94408ce="">
+    <strong data-v-f94408ce="">€ 50</strong>
+    </span>
+    </p>
+    </div> 
+    <div class="card-footer btn-actions" data-v-f94408ce="">
+    <div class="card-footer-item field is-grouped" data-v-f94408ce="">
+    <div class="buttons" data-v-f94408ce="">
+    <button class="button is-primary" data-v-f94408ce=""> Add to cart
+    </button> 
+    <!---->
+    </div> 
+    <div class="select is-rounded is-small" data-v-f94408ce="">
+    <select data-v-f94408ce=""><option data-v-f94408ce="" value="1">1</option>
+    <option data-v-f94408ce="" value="2">2</option>
+    <option data-v-f94408ce="" value="3">3</option>
+    <option data-v-f94408ce="" value="4">4</option>
+    <option data-v-f94408ce="" value="5">5</option>
+    <option data-v-f94408ce="" value="6">6</option>
+    <option data-v-f94408ce="" value="7">7</option>
+    <option data-v-f94408ce="" value="8">8</option>
+    <option data-v-f94408ce="" value="9">9</option>
+    <option data-v-f94408ce="" value="10">10</option>
+    <option data-v-f94408ce="" value="11">11</option>
+    <option data-v-f94408ce="" value="12">12</option>
+    <option data-v-f94408ce="" value="13">13</option>
+    <option data-v-f94408ce="" value="14">14</option>
+    <option data-v-f94408ce="" value="15">15</option>
+    <option data-v-f94408ce="" value="16">16</option>
+    <option data-v-f94408ce="" value="17">17</option>
+    <option data-v-f94408ce="" value="18">18</option>
+    <option data-v-f94408ce="" value="19">19</option>
+    <option data-v-f94408ce="" value="20">20</option>
+    </select>
     </div>
+    </div>
+    </div>
+    </div> 
+    <a href="/product_detail/1" class="details" data-v-f94408ce="">
+    </a>
+    </div>
+    </div>
+    <div class="card column is-one-quarter" data-v-48008f02=""><div data-v-f94408ce="" data-v-48008f02="">
+    <div class="card-image" data-v-f94408ce="">
+    <figure class="image is-4by3" data-v-f94408ce="">
+    <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" data-v-f94408ce="">
+    </figure>
+    </div> 
+    <div class="card-content" data-v-f94408ce="">
+    <div class="media" data-v-f94408ce="">
+    <div class="media-content" data-v-f94408ce="">
+    <p class="title is-4" data-v-f94408ce="">Product 2</p>
+    </div> <div data-v-f94408ce="">
+    <button title="Remove from favourite" class="button is-small" style="display:none" data-v-f94408ce="">
+    <span class="icon is-small" data-v-f94408ce="">
+    <i class="fa fa-heart" data-v-f94408ce="">
+    </i>
+    </span>
+    </button> 
+    <button title="Add to favourite" class="button is-small" data-v-f94408ce="">
+    <span class="icon is-small" data-v-f94408ce=""><i class="fa fa-heart-o" data-v-f94408ce="">
+    </i>
+    </span>
+    </button>
+    </div>
+    </div> 
+    <div class="content is-clearfix" data-v-f94408ce="">
+    <p data-v-f94408ce="">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+     <div class="is-pulled-left" data-v-f94408ce=""><!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> 
+     <i class="fa fa-star" data-v-f94408ce=""></i>
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <p data-v-f94408ce="">10 Reviews</p>
+      </div> 
+      <p class="is-pulled-right" data-v-f94408ce="">
+      <span class="title is-4" data-v-f94408ce="">
+      <strong data-v-f94408ce="">€ 35</strong>
+      </span>
+      </p>
+      </div> 
+      <div class="card-footer btn-actions" data-v-f94408ce="">
+      <div class="card-footer-item field is-grouped" data-v-f94408ce="">
+      <div class="buttons" data-v-f94408ce="">
+      <button class="button is-primary" data-v-f94408ce="">Add to cart</button> 
+      <!---->
+      </div> 
+      <div class="select is-rounded is-small" data-v-f94408ce="">
+      <select data-v-f94408ce="">
+      <option data-v-f94408ce="" value="1">1</option>
+      <option data-v-f94408ce="" value="2">2</option>
+      <option data-v-f94408ce="" value="3">3</option>
+      <option data-v-f94408ce="" value="4">4</option>
+      <option data-v-f94408ce="" value="5">5</option>
+      <option data-v-f94408ce="" value="6">6</option>
+      <option data-v-f94408ce="" value="7">7</option>
+      <option data-v-f94408ce="" value="8">8</option>
+      <option data-v-f94408ce="" value="9">9</option>
+      <option data-v-f94408ce="" value="10">10</option>
+      <option data-v-f94408ce="" value="11">11</option>
+      <option data-v-f94408ce="" value="12">12</option>
+      <option data-v-f94408ce="" value="13">13</option>
+      <option data-v-f94408ce="" value="14">14</option>
+      <option data-v-f94408ce="" value="15">15</option>
+      <option data-v-f94408ce="" value="16">16</option>
+      <option data-v-f94408ce="" value="17">17</option>
+      <option data-v-f94408ce="" value="18">18</option>
+      <option data-v-f94408ce="" value="19">19</option>
+      <option data-v-f94408ce="" value="20">20</option>
+      </select>
+      </div>
+      </div>
+      </div>
+      </div> 
+      <a href="/product_detail/2" class="details" data-v-f94408ce=""></a>
+      </div>
+      </div>
+      <div class="card column is-one-quarter" data-v-48008f02=""><div data-v-f94408ce="" data-v-48008f02="">
+      <div class="card-image" data-v-f94408ce=""><figure class="image is-4by3" data-v-f94408ce="">
+      <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" data-v-f94408ce="">
+      </figure>
+      </div> 
+      <div class="card-content" data-v-f94408ce="">
+      <div class="media" data-v-f94408ce="">
+      <div class="media-content" data-v-f94408ce="">
+      <p class="title is-4" data-v-f94408ce="">Product 3</p> 
+      </div> 
+      <div data-v-f94408ce="">
+      <button title="Remove from favourite" class="button is-small" style="display:none" data-v-f94408ce="">
+      <span class="icon is-small" data-v-f94408ce="">
+      <i class="fa fa-heart" data-v-f94408ce=""></i>
+      </span>
+      </button> 
+      <button title="Add to favourite" class="button is-small" data-v-f94408ce="">
+      <span class="icon is-small" data-v-f94408ce="">
+      <i class="fa fa-heart-o" data-v-f94408ce=""></i>
+      </span>
+      </button>
+      </div>
+      </div> 
+      <div class="content is-clearfix" data-v-f94408ce="">
+      <p data-v-f94408ce="">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p> 
+      <div class="is-pulled-left" data-v-f94408ce=""><!----> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> 
+      <p data-v-f94408ce="">3 Reviews</p>
+      </div> 
+      <p class="is-pulled-right" data-v-f94408ce="">
+      <span class="title is-4" data-v-f94408ce="">
+      <strong data-v-f94408ce="">€ 110</strong>
+      </span>
+      </p>
+      </div> 
+      <div class="card-footer btn-actions" data-v-f94408ce="">
+      <div class="card-footer-item field is-grouped" data-v-f94408ce="">
+      <div class="buttons" data-v-f94408ce="">
+      <button class="button is-primary" data-v-f94408ce="">Add to cart</button> <!---->
+      </div> 
+      <div class="select is-rounded is-small" data-v-f94408ce="">
+      <select data-v-f94408ce="">
+      <option data-v-f94408ce="" value="1">1</option>
+      <option data-v-f94408ce="" value="2">2</option>
+      <option data-v-f94408ce="" value="3">3</option>
+      <option data-v-f94408ce="" value="4">4</option>
+      <option data-v-f94408ce="" value="5">5</option>
+      <option data-v-f94408ce="" value="6">6</option>
+      <option data-v-f94408ce="" value="7">7</option>
+      <option data-v-f94408ce="" value="8">8</option>
+      <option data-v-f94408ce="" value="9">9</option>
+      <option data-v-f94408ce="" value="10">10</option>
+      <option data-v-f94408ce="" value="11">11</option>
+      <option data-v-f94408ce="" value="12">12</option>
+      <option data-v-f94408ce="" value="13">13</option>
+      <option data-v-f94408ce="" value="14">14</option>
+      <option data-v-f94408ce="" value="15">15</option>
+      <option data-v-f94408ce="" value="16">16</option>
+      <option data-v-f94408ce="" value="17">17</option>
+      <option data-v-f94408ce="" value="18">18</option>
+      <option data-v-f94408ce="" value="19">19</option>
+      <option data-v-f94408ce="" value="20">20</option>
+      </select>
+      </div>
+      </div>
+      </div>
+      </div> 
+      <a href="/product_detail/3" class="details" data-v-f94408ce=""></a>
+      </div>
+      </div>
+      <div class="card column is-one-quarter" data-v-48008f02="">
+      <div data-v-f94408ce="" data-v-48008f02="">
+      <div class="card-image" data-v-f94408ce="">
+      <figure class="image is-4by3" data-v-f94408ce="">
+      <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" data-v-f94408ce="">
+      </figure>
+      </div> 
+      <div class="card-content" data-v-f94408ce="">
+      <div class="media" data-v-f94408ce="">
+      <div class="media-content" data-v-f94408ce="">
+      <p class="title is-4" data-v-f94408ce="">Product 4</p>
+      </div> 
+      <div data-v-f94408ce="">
+      <button title="Remove from favourite" class="button is-small" style="display:none" data-v-f94408ce="">
+      <span class="icon is-small" data-v-f94408ce=""></span>
+      <i class="fa fa-heart" data-v-f94408ce=""></i>
+      </button> 
+      <button title="Add to favourite" class="button is-small" data-v-f94408ce="">
+      <span class="icon is-small" data-v-f94408ce="">
+      <i class="fa fa-heart-o" data-v-f94408ce=""></i>
+      </span>
+      </button>
+      </div>
+      </div> 
+      <div class="content is-clearfix" data-v-f94408ce="">
+      <p data-v-f94408ce="">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p> 
+      <div class="is-pulled-left" data-v-f94408ce="">
+      <i class="fa fa-star" data-v-f94408ce=""></i> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> 
+      <p data-v-f94408ce="">No reviews</p>
+      </div> 
+      <p class="is-pulled-right" data-v-f94408ce="">
+      <span class="title is-4" data-v-f94408ce="">
+      <strong data-v-f94408ce="">€ 50</strong>
+      </span>
+      </p>
+      </div> 
+      <div class="card-footer btn-actions" data-v-f94408ce="">
+      <div class="card-footer-item field is-grouped" data-v-f94408ce="">
+      <div class="buttons" data-v-f94408ce="">
+      <button class="button is-primary" data-v-f94408ce="">Add to cart</button> <!---->
+      </div> 
+      <div class="select is-rounded is-small" data-v-f94408ce="">
+      <select data-v-f94408ce="">
+      <option data-v-f94408ce="" value="1">1</option>
+      <option data-v-f94408ce="" value="2">2</option>
+      <option data-v-f94408ce="" value="3">3</option>
+      <option data-v-f94408ce="" value="4">4</option>
+      <option data-v-f94408ce="" value="5">5</option>
+      <option data-v-f94408ce="" value="6">6</option>
+      <option data-v-f94408ce="" value="7">7</option>
+      <option data-v-f94408ce="" value="8">8</option>
+      <option data-v-f94408ce="" value="9">9</option>
+      <option data-v-f94408ce="" value="10">10</option>
+      <option data-v-f94408ce="" value="11">11</option>
+      <option data-v-f94408ce="" value="12">12</option>
+      <option data-v-f94408ce="" value="13">13</option>
+      <option data-v-f94408ce="" value="14">14</option>
+      <option data-v-f94408ce="" value="15">15</option>
+      <option data-v-f94408ce="" value="16">16</option>
+      <option data-v-f94408ce="" value="17">17</option>
+      <option data-v-f94408ce="" value="18">18</option>
+      <option data-v-f94408ce="" value="19">19</option>
+      <option data-v-f94408ce="" value="20">20</option>
+      </select>
+      </div>
+      </div>
+      </div>
+      </div> 
+      <a href="/product_detail/4" class="details" data-v-f94408ce=""></a>
+      </div>
+      </div>
+      <div class="card column is-one-quarter" data-v-48008f02="">
+      <div data-v-f94408ce="" data-v-48008f02="">
+      <div class="card-image" data-v-f94408ce="">
+      <figure class="image is-4by3" data-v-f94408ce="">
+      <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" data-v-f94408ce="">
+      </figure>
+      </div> 
+      <div class="card-content" data-v-f94408ce="">
+      <div class="media" data-v-f94408ce="">
+      <div class="media-content" data-v-f94408ce="">
+      <p class="title is-4" data-v-f94408ce="">Product 5</p>
+      </div> 
+      <div data-v-f94408ce="">
+      <button title="Remove from favourite" class="button is-small" style="display:none" data-v-f94408ce="">
+      <span class="icon is-small" data-v-f94408ce="">
+      <i class="fa fa-heart" data-v-f94408ce=""></i>
+      </span>
+      </button> 
+      <button title="Add to favourite" class="button is-small" data-v-f94408ce="">
+      <span class="icon is-small" data-v-f94408ce="">
+      <i class="fa fa-heart-o" data-v-f94408ce="">
+      </i>
+      </span>
+      </button>
+      </div>
+      </div> 
+      <div class="content is-clearfix" data-v-f94408ce="">
+      <p data-v-f94408ce="">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p> 
+      <div class="is-pulled-left" data-v-f94408ce=""><!----> <!----> <!----> <!----> <!----> <!----> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> <!----> <!----> <!----> <!----> <!---->
+      <p data-v-f94408ce="">2 Reviews</p>
+      </div> 
+      <p class="is-pulled-right" data-v-f94408ce="">
+      <span class="title is-4" data-v-f94408ce="">
+      <strong data-v-f94408ce="">€ 35</strong>
+      </span>
+      </p>
+      </div>
+      <div class="card-footer btn-actions" data-v-f94408ce="">
+      <div class="card-footer-item field is-grouped" data-v-f94408ce="">
+      <div class="buttons" data-v-f94408ce="">
+      <button class="button is-primary" data-v-f94408ce="">Add to cart</button> <!---->
+      </div> 
+      <div class="select is-rounded is-small" data-v-f94408ce="">
+      <select data-v-f94408ce="">
+      <option data-v-f94408ce="" value="1">1</option>
+      <option data-v-f94408ce="" value="2">2</option>
+      <option data-v-f94408ce="" value="3">3</option>
+      <option data-v-f94408ce="" value="4">4</option>
+      <option data-v-f94408ce="" value="5">5</option>
+      <option data-v-f94408ce="" value="6">6</option>
+      <option data-v-f94408ce="" value="7">7</option>
+      <option data-v-f94408ce="" value="8">8</option>
+      <option data-v-f94408ce="" value="9">9</option>
+      <option data-v-f94408ce="" value="10">10</option>
+      <option data-v-f94408ce="" value="11">11</option>
+      <option data-v-f94408ce="" value="12">12</option>
+      <option data-v-f94408ce="" value="13">13</option>
+      <option data-v-f94408ce="" value="14">14</option>
+      <option data-v-f94408ce="" value="15">15</option>
+      <option data-v-f94408ce="" value="16">16</option>
+      <option data-v-f94408ce="" value="17">17</option>
+      <option data-v-f94408ce="" value="18">18</option>
+      <option data-v-f94408ce="" value="19">19</option>
+      <option data-v-f94408ce="" value="20">20</option>
+      </select>
+      </div>
+      </div>
+      </div>
+      </div> 
+      <a href="/product_detail/5" class="details" data-v-f94408ce=""></a>
+      </div>
+      </div>
+      <div class="card column is-one-quarter" data-v-48008f02="">
+      <div data-v-f94408ce="" data-v-48008f02="">
+      <div class="card-image" data-v-f94408ce="">
+      <figure class="image is-4by3" data-v-f94408ce="">
+      <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" data-v-f94408ce="">
+      </figure>
+      </div> 
+      <div class="card-content" data-v-f94408ce="">
+      <div class="media" data-v-f94408ce="">
+      <div class="media-content" data-v-f94408ce="">
+      <p class="title is-4" data-v-f94408ce="">Product 6</p>
+      </div> 
+      <div data-v-f94408ce="">
+      <button title="Remove from favourite" class="button is-small" style="display:none" data-v-f94408ce="">
+      <span class="icon is-small" data-v-f94408ce="">
+      <i class="fa fa-heart" data-v-f94408ce=""></i>
+      </span>
+      </button> 
+      <button title="Add to favourite" class="button is-small" data-v-f94408ce="">
+      <span class="icon is-small" data-v-f94408ce="">
+      <i class="fa fa-heart-o" data-v-f94408ce=""></i>
+      </span>
+      </button>
+      </div>
+      </div>
+      <div class="content is-clearfix" data-v-f94408ce="">
+      <p data-v-f94408ce="">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p> 
+      <div class="is-pulled-left" data-v-f94408ce=""><!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <p data-v-f94408ce="">1 Reviews</p></div> <p class="is-pulled-right" data-v-f94408ce="">
+      <span class="title is-4" data-v-f94408ce="">
+      <strong data-v-f94408ce="">€ 110</strong>
+      </span>
+      </p>
+      </div> 
+      <div class="card-footer btn-actions" data-v-f94408ce="">
+      <div class="card-footer-item field is-grouped" data-v-f94408ce="">
+      <div class="buttons" data-v-f94408ce="">
+      <button class="button is-primary" data-v-f94408ce="">Add to cart</button> <!---->
+      </div> 
+      <div class="select is-rounded is-small" data-v-f94408ce="">
+      <select data-v-f94408ce="">
+      <option data-v-f94408ce="" value="1">1</option>
+      <option data-v-f94408ce="" value="2">2</option>
+      <option data-v-f94408ce="" value="3">3</option>
+      <option data-v-f94408ce="" value="4">4</option>
+      <option data-v-f94408ce="" value="5">5</option>
+      <option data-v-f94408ce="" value="6">6</option>
+      <option data-v-f94408ce="" value="7">7</option>
+      <option data-v-f94408ce="" value="8">8</option>
+      <option data-v-f94408ce="" value="9">9</option>
+      <option data-v-f94408ce="" value="10">10</option>
+      <option data-v-f94408ce="" value="11">11</option>
+      <option data-v-f94408ce="" value="12">12</option>
+      <option data-v-f94408ce="" value="13">13</option>
+      <option data-v-f94408ce="" value="14">14</option>
+      <option data-v-f94408ce="" value="15">15</option>
+      <option data-v-f94408ce="" value="16">16</option>
+      <option data-v-f94408ce="" value="17">17</option>
+      <option data-v-f94408ce="" value="18">18</option>
+      <option data-v-f94408ce="" value="19">19</option>
+      <option data-v-f94408ce="" value="20">20</option>
+      </select>
+      </div>
+      </div>
+      </div>
+      </div> 
+      <a href="/product_detail/6" class="details" data-v-f94408ce=""></a>
+      </div>
+      </div>
+      <div class="card column is-one-quarter" data-v-48008f02="">
+      <div data-v-f94408ce="" data-v-48008f02="">
+      <div class="card-image" data-v-f94408ce="">
+      <figure class="image is-4by3" data-v-f94408ce="">
+      <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" data-v-f94408ce="">
+      </figure>
+      </div> 
+      <div class="card-content" data-v-f94408ce="">
+      <div class="media" data-v-f94408ce="">
+      <div class="media-content" data-v-f94408ce="">
+      <p class="title is-4" data-v-f94408ce="">Product 7</p>
+      </div> 
+      <div data-v-f94408ce="">
+      <button title="Remove from favourite" class="button is-small" style="display:none" data-v-f94408ce="">
+      <span class="icon is-small" data-v-f94408ce="">
+      <i class="fa fa-heart" data-v-f94408ce=""></i>
+      </span>
+      </button> 
+      <button title="Add to favourite" class="button is-small" data-v-f94408ce="">
+      <span class="icon is-small" data-v-f94408ce="">
+      <i class="fa fa-heart-o" data-v-f94408ce=""></i>
+      </span>
+      </button>
+      </div>
+      </div> 
+      <div class="content is-clearfix" data-v-f94408ce="">
+      <p data-v-f94408ce="">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+      <div class="is-pulled-left" data-v-f94408ce=""><!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <p data-v-f94408ce="">7 Reviews</p>
+      </div> 
+      <p class="is-pulled-right" data-v-f94408ce="">
+      <span class="title is-4" data-v-f94408ce="">
+      <strong data-v-f94408ce="">€ 50</strong>
+      </span>
+      </p>
+      </div> 
+      <div class="card-footer btn-actions" data-v-f94408ce="">
+      <div class="card-footer-item field is-grouped" data-v-f94408ce="">
+      <div class="buttons" data-v-f94408ce="">
+      <button class="button is-primary" data-v-f94408ce="">Add to cart</button> <!---->
+      </div> 
+      <div class="select is-rounded is-small" data-v-f94408ce="">
+      <select data-v-f94408ce="">
+      <option data-v-f94408ce="" value="1">1</option>
+      <option data-v-f94408ce="" value="2">2</option>
+      <option data-v-f94408ce="" value="3">3</option>
+      <option data-v-f94408ce="" value="4">4</option>
+      <option data-v-f94408ce="" value="5">5</option>
+      <option data-v-f94408ce="" value="6">6</option>
+      <option data-v-f94408ce="" value="7">7</option>
+      <option data-v-f94408ce="" value="8">8</option>
+      <option data-v-f94408ce="" value="9">9</option>
+      <option data-v-f94408ce="" value="10">10</option>
+      <option data-v-f94408ce="" value="11">11</option>
+      <option data-v-f94408ce="" value="12">12</option>
+      <option data-v-f94408ce="" value="13">13</option>
+      <option data-v-f94408ce="" value="14">14</option>
+      <option data-v-f94408ce="" value="15">15</option>
+      <option data-v-f94408ce="" value="16">16</option>
+      <option data-v-f94408ce="" value="17">17</option>
+      <option data-v-f94408ce="" value="18">18</option>
+      <option data-v-f94408ce="" value="19">19</option>
+      <option data-v-f94408ce="" value="20">20</option>
+      </select>
+      </div>
+      </div>
+      </div>
+      </div> 
+      <a href="/product_detail/7" class="details" data-v-f94408ce=""></a>
+      </div>
+      </div>
+      <div class="card column is-one-quarter" data-v-48008f02="">
+      <div data-v-f94408ce="" data-v-48008f02="">
+      <div class="card-image" data-v-f94408ce="">
+      <figure class="image is-4by3" data-v-f94408ce="">
+      <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" data-v-f94408ce="">
+      </figure>
+      </div> 
+      <div class="card-content" data-v-f94408ce="">
+      <div class="media" data-v-f94408ce="">
+      <div class="media-content" data-v-f94408ce="">
+      <p class="title is-4" data-v-f94408ce="">Product 8</p>
+      </div> 
+      <div data-v-f94408ce="">
+      <button title="Remove from favourite" class="button is-small" style="display:none" data-v-f94408ce="">
+      <span class="icon is-small" data-v-f94408ce="">
+      <i class="fa fa-heart" data-v-f94408ce=""></i>
+      </span>
+      </button> 
+      <button title="Add to favourite" class="button is-small" data-v-f94408ce="">
+      <span class="icon is-small" data-v-f94408ce="">
+      <i class="fa fa-heart-o" data-v-f94408ce=""></i>
+      </span>
+      </button>
+      </div>
+      </div>
+      <div class="content is-clearfix" data-v-f94408ce="">
+      <p data-v-f94408ce="">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p> 
+      <div class="is-pulled-left" data-v-f94408ce=""><!----> <!----> <!----> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> 
+      <i class="fa fa-star" data-v-f94408ce=""></i> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> 
+      <p data-v-f94408ce="">No reviews</p>
+      </div> 
+      <p class="is-pulled-right" data-v-f94408ce="">
+      <span class="title is-4" data-v-f94408ce="">
+      <strong data-v-f94408ce="">€ 35</strong>
+      </span>
+      </p>
+      </div>
+      <div class="card-footer btn-actions" data-v-f94408ce="">
+      <div class="card-footer-item field is-grouped" data-v-f94408ce="">
+      <div class="buttons" data-v-f94408ce="">
+      <button class="button is-primary" data-v-f94408ce="">Add to cart</button> <!---->
+      </div> 
+      <div class="select is-rounded is-small" data-v-f94408ce="">
+      <select data-v-f94408ce="">
+        <option data-v-f94408ce="" value="1">1</option>
+        <option data-v-f94408ce="" value="2">2</option>
+        <option data-v-f94408ce="" value="3">3</option>
+        <option data-v-f94408ce="" value="4">4</option>
+        <option data-v-f94408ce="" value="5">5</option>
+        <option data-v-f94408ce="" value="6">6</option>
+        <option data-v-f94408ce="" value="7">7</option>
+        <option data-v-f94408ce="" value="8">8</option>
+        <option data-v-f94408ce="" value="9">9</option>
+        <option data-v-f94408ce="" value="10">10</option>
+        <option data-v-f94408ce="" value="11">11</option>
+        <option data-v-f94408ce="" value="12">12</option>
+        <option data-v-f94408ce="" value="13">13</option>
+        <option data-v-f94408ce="" value="14">14</option>
+        <option data-v-f94408ce="" value="15">15</option>
+        <option data-v-f94408ce="" value="16">16</option>
+        <option data-v-f94408ce="" value="17">17</option>
+        <option data-v-f94408ce="" value="18">18</option>
+        <option data-v-f94408ce="" value="19">19</option>
+        <option data-v-f94408ce="" value="20">20</option>
+        </select>
+        </div>
+        </div>
+        </div>
+        </div> 
+        <a href="/product_detail/8" class="details" data-v-f94408ce=""></a>
+        </div>
+        </div>
+        <div class="card column is-one-quarter" data-v-48008f02="">
+        <div data-v-f94408ce="" data-v-48008f02="">
+        <div class="card-image" data-v-f94408ce="">
+        <figure class="image is-4by3" data-v-f94408ce="">
+        <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image" data-v-f94408ce="">
+        </figure>
+        </div>
+        <div class="card-content" data-v-f94408ce="">
+        <div class="media" data-v-f94408ce="">
+        <div class="media-content" data-v-f94408ce="">
+        <p class="title is-4" data-v-f94408ce="">Product 9</p>
+        </div> 
+        <div data-v-f94408ce="">
+        <button title="Remove from favourite" class="button is-small" style="display:none" data-v-f94408ce="">
+        <span class="icon is-small" data-v-f94408ce="">
+        <i class="fa fa-heart" data-v-f94408ce=""></i>
+        </span>
+        </button> 
+        <button title="Add to favourite" class="button is-small" data-v-f94408ce="">
+        <span class="icon is-small" data-v-f94408ce="">
+        <i class="fa fa-heart-o" data-v-f94408ce=""></i>
+        </span>
+        </button>
+        </div>
+        </div> 
+        <div class="content is-clearfix" data-v-f94408ce="">
+        <p data-v-f94408ce="">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+        <div class="is-pulled-left" data-v-f94408ce=""><!----> <!----> <!----> <!----> <!----> <!----> 
+        <i class="fa fa-star" data-v-f94408ce=""></i> 
+        <i class="fa fa-star" data-v-f94408ce=""></i> 
+        <i class="fa fa-star" data-v-f94408ce=""></i> 
+        <i class="fa fa-star" data-v-f94408ce=""></i> <!----> <!----> <!----> <!----> <!----> 
+        <p data-v-f94408ce="">2 Reviews</p>
+        </div> 
+        <p class="is-pulled-right" data-v-f94408ce="">
+        <span class="title is-4" data-v-f94408ce="">
+        <strong data-v-f94408ce="">€ 110</strong>
+        </span>
+        </p>
+        </div> 
+        <div class="card-footer btn-actions" data-v-f94408ce="">
+        <div class="card-footer-item field is-grouped" data-v-f94408ce="">
+        <div class="buttons" data-v-f94408ce="">
+        <button class="button is-primary" data-v-f94408ce="">Add to cart</button> <!---->
+        </div> 
+        <div class="select is-rounded is-small" data-v-f94408ce="">
+        <select data-v-f94408ce=""><option data-v-f94408ce="" value="1">1</option>
+        <option data-v-f94408ce="" value="2">2</option>
+        <option data-v-f94408ce="" value="3">3</option>
+        <option data-v-f94408ce="" value="4">4</option>
+        <option data-v-f94408ce="" value="5">5</option>
+        <option data-v-f94408ce="" value="6">6</option>
+        <option data-v-f94408ce="" value="7">7</option>
+        <option data-v-f94408ce="" value="8">8</option>
+        <option data-v-f94408ce="" value="9">9</option>
+        <option data-v-f94408ce="" value="10">10</option>
+        <option data-v-f94408ce="" value="11">11</option>
+        <option data-v-f94408ce="" value="12">12</option>
+        <option data-v-f94408ce="" value="13">13</option>
+        <option data-v-f94408ce="" value="14">14</option>
+        <option data-v-f94408ce="" value="15">15</option>
+        <option data-v-f94408ce="" value="16">16</option>
+        <option data-v-f94408ce="" value="17">17</option>
+        <option data-v-f94408ce="" value="18">18</option>
+        <option data-v-f94408ce="" value="19">19</option>
+        <option data-v-f94408ce="" value="20">20</option>
+        </select>
+        </div>
+        </div>
+        </div>
+        </div> 
+        <a href="/product_detail/9" class="details" data-v-f94408ce=""></a>
+        </div>
+        </div>
+        <!---->
   </div>
-</div> 
+  </main>
 <footer class="bg-coolGray-100 text-coolGray-900">
 		<div class="container flex flex-col p-4 mx-auto md:p-8 lg:flex-row divide-coolGray-600">
 			<ul class="self-center py-6 space-y-4 text-center sm:flex sm:space-y-0 sm:justify-around sm:space-x-4 lg:flex-1 lg:justify-start">
