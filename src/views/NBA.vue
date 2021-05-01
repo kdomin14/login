@@ -12,8 +12,8 @@
   </div>
 </div> 
 <main>
-  <div class="columns is-centered is-multiline" data-v-48008f02="">
-    <div class="card column is-one-quarter" data-v-48008f02="">
+  <div class="columns is-centered is-multiline">
+    <div class="card column is-one-quarter">
     <div data-v-f94408ce="" data-v-48008f02="">
     <div class="card-image" data-v-f94408ce="">
   <figure class="image is-4by3" data-v-f94408ce="">
