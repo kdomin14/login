@@ -25,7 +25,7 @@ const routes = [
   {path: '/NBA', component: NBA},
   {path: '/NFL', component: NFL},
   {path: '/MLB', component: MLB},
-  {path: '/cart', component: Cart},
+  {path: '/Cart', component: Cart},
   { path: '/login', component: Login },
   { path: '/signup', component: SignUp },
   { path: '/:pathMatch(.*)*', name: 'NotFound', component: NotFound },

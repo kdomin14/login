@@ -2,7 +2,7 @@
   <Alert v-if="isError" />
   <div class="navbar mb-2 shadow-lg bg-content-800 text-content-100">
     <div class="flex-1 px-2 mx-2">
-      <span class="text-lg font-bold"> Kdom Breaks </span>
+      <span class="text-lg font-bold"> Kdom Sports Cards </span>
     </div>
     <div class="flex-none flex px-2 mx-2">
       <div class="flex">
@@ -31,7 +31,7 @@
           MLB
         </router-link>
         <router-link
-          to="/Cartnp"
+          to="/Cart"
           class="btn btn-ghost btn-sm rounded-btn hover:text-content-100"
         >
           Cart
