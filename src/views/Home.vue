@@ -1,9 +1,16 @@
 <template>
+<header>
+    <div class="w-full bg-cover bg-center" style="height:32rem; background-image: url(https://sportsamericasportscards.com/product_images/uploaded_images/img-1203-sports-cards.jpg);">
+        <div class="flex items-center justify-center h-full w-full bg-gray-900 bg-opacity-50">
+            <div class="text-center">
+            </div>
+        </div>
+    </div>
+</header>
   <div class="mt-8">
     <p class="text-3xl mx-auto text-center m-16 tracking-wider font-thin">
     Welcome {{ user?.displayName || 'New User' }}    
     </p>
-    <img class="h-80 mx-auto" src="../assets/home.jpg" alt="Home Image" />
   </div>
 
   <section class="m-4 md:m-8 bg-coolGray-100 text-coolGray-800">

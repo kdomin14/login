@@ -1,46 +1,24 @@
 <template>
-  <div class="card text-center shadow-2xl">
-</div> 
-<div class="card shadow-xl image-full">
-  <figure>
-    <img src="../assets/basketball.jpg">
-  </figure> 
-  <div class="justify-end card-body">
-    <h1 class="card-title">NBA</h1>  
-    <div class="card-actions">
+<header>
+    <div class="w-full bg-cover bg-center" style="height:32rem; background-image: url(https://cdn-prodcms.jostens.com/contentAsset/image/d46f4feb-ca7b-4bdc-9493-26ccb150aa9a/fileAsset/filter/Scale,Jpeg/scale_w/1920/jpeg_q/85/jpeg_p/1/d46f4feb-ca7b-4bdc-9493-26ccb150aa9a.jpg);">
+        <div class="flex items-center justify-center h-full w-full bg-gray-900 bg-opacity-50">
+            <div class="text-center">
+                <h1 class="text-white text-2xl font-semibold uppercase md:text-3xl">NBA</h1>
+            </div>
+        </div>
     </div>
-  </div>
-</div> 
+</header>
 <main>
-  <div class="columns is-centered">
-    <div class="card column is-one-quarter">
-    <div class="card-image">
-  <figure class="image is-4by3">
+<div class="flex flex-wrap overflow-hidden xl:-mx-20">
+  <div class="w-full overflow-hidden xl:my-20 xl:px-20 xl:w-1/3">
   <img src="../assets/lamelo.jpg" alt="Placeholder image">
-  </figure>
-  </div> 
-  <div class="card-content">
-  <div class="media">
-  <div class="media-content">
-  <h1 class="title is-4">2020-21 Panini Prizm LaMelo Ball Rookie Card #278</h1>
-  </div> 
-  </div>
-   <div class="content is-clearfix">
-   <div class="is-pulled-left">
-    </div> 
-    <p class="is-pulled-right">
-    <span class="title is-4">
+  <h1 class="title">2020-21 Panini Prizm LaMelo Ball Rookie Card #278</h1>
     <strong>$ 50</strong>
-    </span>
-    </p>
-    </div> 
-    <div class="card-footer btn-actions">
     <div class="card-footer-item field is-grouped">
     <div class="buttons">
     <button class="button is-primary"> Add to cart
     </button> 
     <!---->
-    </div> 
     <div class="select is-rounded is-small">
     <select><option value="1">1</option>
     <option value="2">2</option>
@@ -65,58 +43,24 @@
     </select>
     </div>
     </div>
-    </div>
-    </div> 
-    <a href="/product_detail/1" class="details">
-    </a>
-    </div>
-    </div>
-    <div class="card column is-one-quarter" data-v-48008f02=""><div data-v-48008f02="">
-    <div class="card-image">
-    <figure class="image is-4by3">
+  </div>
+  </div>
+  </div>
+    <div class="w-full overflow-hidden xl:my-20 xl:px-20 xl:w-1/3">
     <img src="../assets/Allen.jpg" alt="Placeholder image">
-    </figure>
-    </div> 
-    <div class="card-content">
-    <div class="media">
-    <div class="media-content">
-    <p class="title is-4">Product 2</p>
-    </div> <div>
-    <button title="Remove from favourite" class="button is-small" style="display:none">
-    <span class="icon is-small">
-    <i class="fa fa-heart">
-    </i>
-    </span>
-    </button> 
-    <button title="Add to favourite" class="button is-small">
-    <span class="icon is-small"><i class="fa fa-heart-o">
-    </i>
-    </span>
-    </button>
-    </div>
-    </div> 
     <div class="content is-clearfix">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-     <div class="is-pulled-left"><!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> 
-     <i class="fa fa-star"></i>
-      <i class="fa fa-star"></i> 
-      <i class="fa fa-star"></i> 
-      <i class="fa fa-star"></i> 
-      <i class="fa fa-star"></i> 
-      <p>10 Reviews</p>
-      </div> 
+     <div class="is-pulled-left"> 
       <p class="is-pulled-right">
       <span class="title is-4">
       <strong>€ 35</strong>
       </span>
       </p>
-      </div> 
       <div class="card-footer btn-actions">
       <div class="card-footer-item field is-grouped">
       <div class="buttons">
       <button class="button is-primary">Add to cart</button> 
       <!---->
-      </div> 
       <div class="select is-rounded is-small">
       <select>
       <option value="1">1</option>
@@ -143,14 +87,12 @@
       </div>
       </div>
       </div>
-      </div> 
-      <a href="/product_detail/2" class="details"></a>
       </div>
-      </div>
-      <div class="card column is-one-quarter" data-v-48008f02=""><div data-v-48008f02="">
-      <div class="card-image"><figure class="image is-4by3">
+     </div>
+    </div>
+    </div>
+      <div class="w-full overflow-hidden xl:my-20 xl:px-20 xl:w-1/3">
       <img src="../assets/steph.jpg" alt="Placeholder image">
-      </figure>
       </div> 
       <div class="card-content">
       <div class="media">
@@ -215,9 +157,6 @@
       </div>
       </div>
       </div> 
-      <a href="/product_detail/3" class="details"></a>
-      </div>
-      </div>
 </main>
 <footer class="bg-coolGray-100 text-coolGray-900">
 		<div class="container flex flex-col p-4 mx-auto md:p-8 lg:flex-row divide-coolGray-600">

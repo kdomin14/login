@@ -1,18 +1,13 @@
 <template>
-  <div class="card text-center shadow-2xl">
-</div> 
-<div class="card shadow-xl image-full">
-  <figure>
-    <img src="../assets/football.jpg">
-  </figure> 
-  <div class="justify-end card-body">
-    <h2 class="card-title">Image overlay</h2> 
-    <p>Rerum reiciendis beatae tenetur excepturi aut pariatur est eos. Sit sit necessitatibus veritatis sed molestiae voluptates incidunt iure sapiente.</p> 
-    <div class="card-actions">
-      <button class="btn btn-primary">Get Started</button>
+<header>
+    <div class="w-full bg-cover bg-center" style="height:32rem; background-image: url(https://www.mercurynews.com/wp-content/uploads/2021/01/football-copy.jpg);">
+        <div class="flex items-center justify-center h-full w-full bg-gray-900 bg-opacity-50">
+            <div class="text-center">
+                <h1 class="text-white text-2xl font-semibold uppercase md:text-3xl">NFL</h1>
+            </div>
+        </div>
     </div>
-  </div>
-</div> 
+</header>
 <main>
   <div class="columns is-centered">
     <div class="card column is-one-quarter">
