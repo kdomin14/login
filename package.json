@@ -11,8 +11,7 @@
     "firebase": "^8.4.3",
     "vee-validate": "^4.3.0",
     "vue": "^3.0.5",
-    "vue-router": "^4.0.4",
-    "yup": "^0.32.9"
+    "vue-router": "^4.0.4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.1.4",
