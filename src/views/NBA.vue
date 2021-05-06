@@ -25,7 +25,7 @@
                 <header class="flex items-center justify-between leading-tight p-2 md:p-4">
                     <h1 class="text-lg">
                         <a class="no-underline hover:underline text-black" href="#">
-                            Barry Bonds
+                            Lamelo Ball
                         </a>
                     </h1>
                 </header>
@@ -58,7 +58,7 @@
                 <header class="flex items-center justify-between leading-tight p-2 md:p-4">
                     <h1 class="text-lg">
                         <a class="no-underline hover:underline text-black" href="#">
-                            Kobe Bryant 
+                            Allen Iverson 
                         </a>
                     </h1>
                 </header>
@@ -92,7 +92,7 @@
                 <header class="flex items-center justify-between leading-tight p-2 md:p-4">
                     <h1 class="text-lg">
                         <a class="no-underline hover:underline text-black" href="#">
-                            Dan Moreno
+                            Stephen Curry
                         </a>
                     </h1>
                 </header>
@@ -126,7 +126,7 @@
                 <header class="flex items-center justify-between leading-tight p-2 md:p-4">
                     <h1 class="text-lg">
                         <a class="no-underline hover:underline text-black" href="#">
-                            Derek Jeter
+                            Luka Doncic
                         </a>
                     </h1>
                 </header>
@@ -160,7 +160,7 @@
                 <header class="flex items-center justify-between leading-tight p-2 md:p-4">
                     <h1 class="text-lg">
                         <a class="no-underline hover:underline text-black" href="#">
-                            Micheal Jordan
+                            Scottie Pippen
                         </a>
                     </h1>
                 </header>

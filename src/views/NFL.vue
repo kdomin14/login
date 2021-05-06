@@ -25,7 +25,7 @@
                 <header class="flex items-center justify-between leading-tight p-2 md:p-4">
                     <h1 class="text-lg">
                         <a class="no-underline hover:underline text-black" href="#">
-                            Barry Bonds
+                            Kyler Murray
                         </a>
                     </h1>
                 </header>
@@ -58,7 +58,7 @@
                 <header class="flex items-center justify-between leading-tight p-2 md:p-4">
                     <h1 class="text-lg">
                         <a class="no-underline hover:underline text-black" href="#">
-                            Kobe Bryant 
+                            Patrick Mahomes 
                         </a>
                     </h1>
                 </header>
@@ -92,7 +92,7 @@
                 <header class="flex items-center justify-between leading-tight p-2 md:p-4">
                     <h1 class="text-lg">
                         <a class="no-underline hover:underline text-black" href="#">
-                            Dan Moreno
+                            Steve Young
                         </a>
                     </h1>
                 </header>
@@ -126,7 +126,7 @@
                 <header class="flex items-center justify-between leading-tight p-2 md:p-4">
                     <h1 class="text-lg">
                         <a class="no-underline hover:underline text-black" href="#">
-                            Derek Jeter
+                            Dak Prescott
                         </a>
                     </h1>
                 </header>
@@ -160,7 +160,7 @@
                 <header class="flex items-center justify-between leading-tight p-2 md:p-4">
                     <h1 class="text-lg">
                         <a class="no-underline hover:underline text-black" href="#">
-                            Micheal Jordan
+                            Ezekiel Elliot
                         </a>
                     </h1>
                 </header>
@@ -194,7 +194,7 @@
                 <header class="flex items-center justify-between leading-tight p-2 md:p-4">
                     <h1 class="text-lg">
                         <a class="no-underline hover:underline text-black" href="#">
-                            Zion Willamson
+                            Amari Cooper
                         </a>
                     </h1>
                 </header>
