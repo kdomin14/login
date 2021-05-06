@@ -1,6 +1,6 @@
 <template>
   <Alert v-if="isError" />
-  <div class="navbar mb-2 shadow-lg bg-content-800 text-content-100">
+  <div class="navbar mb-0 shadow-lg bg-content-800 text-content-100">
     <div class="flex-1 px-2 mx-2">
       <span class="text-lg font-bold"> Kdom Sports Cards </span>
     </div>
