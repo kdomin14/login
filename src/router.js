@@ -5,7 +5,8 @@ import Secret from './views/Secret.vue'
 import NBA from './views/NBA.vue'
 import NFL from './views/NFL.vue'
 import MLB from './views/MLB.vue'
-import Cart from './views/Cart.vue'
+import About from './views/About.vue'
+import FAQ from './views/FAQ.vue'
 import Login from './views/Login.vue'
 import SignUp from './views/SignUp.vue'
 import NotFound from './views/NotFound.vue'
@@ -22,6 +23,8 @@ const routes = [
       return '/login'
     },
   },
+  {path: '/FAQ', component: FAQ},
+  {path: '/NBA', component: NBA},
   {path: '/NBA', component: NBA},
   {path: '/NFL', component: NFL},
   {path: '/MLB', component: MLB},

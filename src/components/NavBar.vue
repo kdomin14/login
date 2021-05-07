@@ -13,6 +13,12 @@
           Home
         </router-link>
         <router-link
+          to="/About"
+          class="btn btn-ghost btn-sm rounded-btn hover:text-content-100"
+        >
+          About Us
+        </router-link>
+        <router-link
           to="/NBA"
           class="btn btn-ghost btn-sm rounded-btn hover:text-content-100"
         >
@@ -29,6 +35,12 @@
           class="btn btn-ghost btn-sm rounded-btn hover:text-content-100"
         >
           MLB
+        </router-link>
+        <router-link
+          to="/FAQ"
+          class="btn btn-ghost btn-sm rounded-btn hover:text-content-100"
+        >
+          FAQ
         </router-link>
         <div v-if="!isAuthenticated">
           <router-link
