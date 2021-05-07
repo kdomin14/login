@@ -34,7 +34,7 @@
 				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-8 h-8 text-lightBlue-600">
 					<path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.38z" clip-rule="evenodd"></path>
 				</svg>
-				<h3 class="my-3 text-3xl font-semibold">Product</h3>
+				<h3 class="my-3 text-3xl font-semibold">Discouts on product</h3>
 				<div class="space-y-1 leading-tight">
 				</div>
 			</div>
@@ -42,7 +42,7 @@
 				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-8 h-8 text-lightBlue-600">
 					<path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.38z" clip-rule="evenodd"></path>
 				</svg>
-				<h3 class="my-3 text-3xl font-semibold">Product</h3>
+				<h3 class="my-3 text-3xl font-semibold">Up-to-Date info</h3>
 				<div class="space-y-1 leading-tight">
 				</div>
 			</div>
@@ -50,7 +50,7 @@
 				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-8 h-8 text-lightBlue-600">
 					<path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.38z" clip-rule="evenodd"></path>
 				</svg>
-				<h3 class="my-3 text-3xl font-semibold">Product</h3>
+				<h3 class="my-3 text-3xl font-semibold">Member Only Page</h3>
 				<div class="space-y-1 leading-tight">
 				</div>
 			</div>
@@ -58,7 +58,7 @@
 				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-8 h-8 text-lightBlue-600">
 					<path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.38z" clip-rule="evenodd"></path>
 				</svg>
-				<h3 class="my-3 text-3xl font-semibold">Product</h3>
+				<h3 class="my-3 text-3xl font-semibold">First to Choose</h3>
 				<div class="space-y-1 leading-tight">
 				</div>
 			</div><!---->

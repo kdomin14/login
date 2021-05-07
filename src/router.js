@@ -24,6 +24,7 @@ const routes = [
     },
   },
   {path: '/FAQ', component: FAQ},
+  {path: '/About', component: About},
   {path: '/NBA', component: NBA},
   {path: '/NBA', component: NBA},
   {path: '/NFL', component: NFL},
