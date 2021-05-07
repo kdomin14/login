@@ -27,7 +27,7 @@
 </template>
 
 <script>
-import products from "C:\\Windows\\System32\\projects\\login\\nfl.json";
+import products from "../Products/nfl.json";
 import Product from "../components/Product.vue";
 import Cart from "../components/Cart.vue";
 export default {
