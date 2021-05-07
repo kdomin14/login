@@ -1,6 +1,6 @@
 <template>
   <section
-    class="container flex items-center justify-center text-center bg-content-800 rounded-xl mx-auto mt-20 max-w-md"
+    class="container bg-gradient-to-r from-green-400 to-blue-500 flex items-center justify-center text-center bg-content-800 rounded-b-box mx-auto mt-20 mb-20 max-w-lg"
   >
     <form @submit.prevent class="flex flex-col w-full p-12 shadow-lg">
       <label
@@ -60,13 +60,13 @@
         {{ passwordConfirmationError }}
       </p>
 
-      <button v-if="form == 'login'" @click="login" class="btn btn-accent mt-8">
+      <button v-if="form == 'login'" @click="login" class="btn btn-accent bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 mt-8">
         Login
       </button>
-      <button v-else @click="register" class="btn btn-accent mt-8">
+      <button v-else @click="register" class="btn btn-accent bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 mt-8">
         SignUp
       </button>
-      <button @click="google" class="btn btn-primary-content mt-8">
+      <button @click="google" class="btn btn-primary-content bg-gradient-to-r from-purple-400 via-white to-red-500 mt-8">
         <img class="w-8" src="../assets/google.svg" alt="Google Logo" />
       </button>
     </form>
@@ -146,6 +146,7 @@ const {
   errorMessage: passwordError,
   meta: passwordMeta,
 } = useField('password', yup.string().required().min(8))
+
 const passwordConfirmationFn = () => {
   if (password.value === passwordConfirmation.value) {
     return true

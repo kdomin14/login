@@ -33,8 +33,8 @@
                 <footer class="flex items-center justify-between leading-none p-2 md:p-4">
                      <div class="flex flex-col md:flex-row justify-between items-center text-gray-900">
                         <p class="font-bold text-xl">65 $</p>
-                            <button
-                                 class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none">Add to cart
+                            <button type ="button" class="px-8 py-3 transition ease-in duration-200 uppercase rounded-full bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500">
+                                Add to cart
                             </button>
                     </div>
                 </footer>
@@ -66,8 +66,8 @@
                 <footer class="flex items-center justify-between leading-none p-2 md:p-4">
                      <div class="flex flex-col md:flex-row justify-between items-center text-gray-900">
                         <p class="font-bold text-xl">65 $</p>
-                            <button
-                                 class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none">Add to cart
+                            <button type ="button" class="px-8 py-3 transition ease-in duration-200 uppercase rounded-full bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500">
+                                Add to cart
                             </button>
                     </div>
                 </footer>
@@ -100,8 +100,8 @@
                 <footer class="flex items-center justify-between leading-none p-2 md:p-4">
                      <div class="flex flex-col md:flex-row justify-between items-center text-gray-900">
                         <p class="font-bold text-xl">65 $</p>
-                            <button
-                                 class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none">Add to cart
+                            <button type ="button" class="px-8 py-3 transition ease-in duration-200 uppercase rounded-full bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500">
+                                Add to cart
                             </button>
                     </div>
                 </footer>
@@ -134,8 +134,8 @@
                 <footer class="flex items-center justify-between leading-none p-2 md:p-4">
                      <div class="flex flex-col md:flex-row justify-between items-center text-gray-900">
                         <p class="font-bold text-xl">65 $</p>
-                            <button
-                                 class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none">Add to cart
+                            <button type ="button" class="px-8 py-3 transition ease-in duration-200 uppercase rounded-full bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500">
+                                Add to cart
                             </button>
                     </div>
                 </footer>
@@ -168,8 +168,8 @@
                 <footer class="flex items-center justify-between leading-none p-2 md:p-4">
                      <div class="flex flex-col md:flex-row justify-between items-center text-gray-900">
                         <p class="font-bold text-xl">65 $</p>
-                            <button
-                                 class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none">Add to cart
+                            <button type ="button" class="px-8 py-3 transition ease-in duration-200 uppercase rounded-full bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500">
+                                Add to cart
                             </button>
                     </div>
                 </footer>
@@ -202,8 +202,8 @@
                 <footer class="flex items-center justify-between leading-none p-2 md:p-4">
                      <div class="flex flex-col md:flex-row justify-between items-center text-gray-900">
                         <p class="font-bold text-xl">65 $</p>
-                            <button
-                                 class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none">Add to cart
+                            <button type ="button" class="px-8 py-3 transition ease-in duration-200 uppercase rounded-full bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500">
+                                Add to cart
                             </button>
                     </div>
                 </footer>

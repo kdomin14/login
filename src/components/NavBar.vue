@@ -30,12 +30,6 @@
         >
           MLB
         </router-link>
-        <router-link
-          to="/Cart"
-          class="btn btn-ghost btn-sm rounded-btn hover:text-content-100"
-        >
-          Cart
-        </router-link>
         <div v-if="!isAuthenticated">
           <router-link
             to="/login"

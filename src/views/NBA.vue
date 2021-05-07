@@ -1,5 +1,5 @@
 <template>
-<header>
+  <header>
     <div class="w-full bg-cover bg-center" style="height:32rem; background-image: url(https://cdn-prodcms.jostens.com/contentAsset/image/d46f4feb-ca7b-4bdc-9493-26ccb150aa9a/fileAsset/filter/Scale,Jpeg/scale_w/1920/jpeg_q/85/jpeg_p/1/d46f4feb-ca7b-4bdc-9493-26ccb150aa9a.jpg);">
         <div class="flex items-center justify-center h-full w-full bg-gray-900 bg-opacity-50">
             <div class="text-center">
@@ -7,214 +7,65 @@
             </div>
         </div>
     </div>
-</header>
-<main>
+  </header>
     <div class="container my-12 mx-auto px-4 md:px-12"> 
     <div class="flex flex-wrap -mx-1 lg:-mx-4">
-
-        <!-- Card 1 -->
-        <div class="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
-
-            <!-- Article -->
-            <article class="overflow-hidden rounded-lg shadow-lg">
-
-                <a href="#">
-                    <img alt="Placeholder" class="block h-auto w-full" src="../assets/basketball/lamelo.jpg">
-                </a>
-
-                <header class="flex items-center justify-between leading-tight p-2 md:p-4">
-                    <h1 class="text-lg">
-                        <a class="no-underline hover:underline text-black" href="#">
-                            Lamelo Ball
-                        </a>
-                    </h1>
-                </header>
-
-                <footer class="flex items-center justify-between leading-none p-2 md:p-4">
-                     <div class="flex flex-col md:flex-row justify-between items-center text-gray-900">
-                        <p class="font-bold text-xl">65 $</p>
-                            <button
-                                 class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none">Add to cart
-                            </button>
-                    </div>
-                </footer>
-
-            </article>
-            <!-- END Article -->
-
+            <div class="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3" :key="product.id" v-for="product in products">
+              <div class="banner-section" id="img-container">
+              </div>
+            <product
+              :isInCart="isInCart(product)"
+              v-on:add-to-cart="addToCart(product)"
+              :product="product"
+            ></product>
+          </div>
         </div>
-        <!-- END Column -->
-
-        <!-- Card 2 -->
-        <div class="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
-
-            <!-- Article -->
-            <article class="overflow-hidden rounded-lg shadow-lg">
-
-                <a href="#">
-                    <img alt="Placeholder" class="block h-auto w-full" src="../assets/basketball/Allen.jpg">
-                </a>
-
-                <header class="flex items-center justify-between leading-tight p-2 md:p-4">
-                    <h1 class="text-lg">
-                        <a class="no-underline hover:underline text-black" href="#">
-                            Allen Iverson 
-                        </a>
-                    </h1>
-                </header>
-
-                <footer class="flex items-center justify-between leading-none p-2 md:p-4">
-                     <div class="flex flex-col md:flex-row justify-between items-center text-gray-900">
-                        <p class="font-bold text-xl">65 $</p>
-                            <button
-                                 class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none">Add to cart
-                            </button>
-                    </div>
-                </footer>
-
-
-            </article>
-            <!-- END Article -->
-
-        </div>
-        <!-- END Column -->
-
-        <!-- Card 3 -->
-        <div class="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
-
-            <!-- Article -->
-            <article class="overflow-hidden rounded-lg shadow-lg">
-
-                <a href="#">
-                    <img alt="Placeholder" class="block h-auto w-full" src="../assets/basketball/steph.jpg">
-                </a>
-
-                <header class="flex items-center justify-between leading-tight p-2 md:p-4">
-                    <h1 class="text-lg">
-                        <a class="no-underline hover:underline text-black" href="#">
-                            Stephen Curry
-                        </a>
-                    </h1>
-                </header>
-
-                <footer class="flex items-center justify-between leading-none p-2 md:p-4">
-                     <div class="flex flex-col md:flex-row justify-between items-center text-gray-900">
-                        <p class="font-bold text-xl">65 $</p>
-                            <button
-                                 class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none">Add to cart
-                            </button>
-                    </div>
-                </footer>
-
-
-            </article>
-            <!-- END Article -->
-
-        </div>
-        <!-- END Column -->
-
-        <!-- Card 4 -->
-        <div class="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
-
-            <!-- Article -->
-            <article class="overflow-hidden rounded-lg shadow-lg">
-
-                <a href="#">
-                    <img alt="Placeholder" class="block h-auto w-full" src="../assets/basketball/Luka.jpg">
-                </a>
-
-                <header class="flex items-center justify-between leading-tight p-2 md:p-4">
-                    <h1 class="text-lg">
-                        <a class="no-underline hover:underline text-black" href="#">
-                            Luka Doncic
-                        </a>
-                    </h1>
-                </header>
-
-                <footer class="flex items-center justify-between leading-none p-2 md:p-4">
-                     <div class="flex flex-col md:flex-row justify-between items-center text-gray-900">
-                        <p class="font-bold text-xl">65 $</p>
-                            <button
-                                 class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none">Add to cart
-                            </button>
-                    </div>
-                </footer>
-
-
-            </article>
-            <!-- END Article -->
-
-        </div>
-        <!-- END Column -->
-
-        <!-- Card 5 -->
-        <div class="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
-
-            <!-- Article -->
-            <article class="overflow-hidden rounded-lg shadow-lg">
-
-                <a href="#">
-                    <img alt="Placeholder" class="block h-auto w-full" src="../assets/basketball/Pippen.jpg">
-                </a>
-
-                <header class="flex items-center justify-between leading-tight p-2 md:p-4">
-                    <h1 class="text-lg">
-                        <a class="no-underline hover:underline text-black" href="#">
-                            Scottie Pippen
-                        </a>
-                    </h1>
-                </header>
-
-                <footer class="flex items-center justify-between leading-none p-2 md:p-4">
-                     <div class="flex flex-col md:flex-row justify-between items-center text-gray-900">
-                        <p class="font-bold text-xl">65 $</p>
-                            <button
-                                 class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none">Add to cart
-                            </button>
-                    </div>
-                </footer>
-
-
-            </article>
-            <!-- END Article -->
-
-        </div>
-        <!-- END Column -->
-
-        <!-- Card 6 -->
-        <div class="my-1 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
-
-            <!-- Article -->
-            <article class="overflow-hidden rounded-lg shadow-lg">
-
-                <a href="#">
-                    <img alt="Placeholder" class="block h-auto w-full" src="../assets/basketball/zion.jpg">
-                </a>
-
-                <header class="flex items-center justify-between leading-tight p-2 md:p-4">
-                    <h1 class="text-lg">
-                        <a class="no-underline hover:underline text-black" href="#">
-                            Zion Willamson
-                        </a>
-                    </h1>
-                </header>
-
-                <footer class="flex items-center justify-between leading-none p-2 md:p-4">
-                     <div class="flex flex-col md:flex-row justify-between items-center text-gray-900">
-                        <p class="font-bold text-xl">65 $</p>
-                            <button
-                                 class="px-6 py-2 transition ease-in duration-200 uppercase rounded-full hover:bg-gray-800 hover:text-white border-2 border-gray-900 focus:outline-none">Add to cart
-                            </button>
-                    </div>
-                </footer>
-
-            </article>
-            <!-- END Article -->
-
-        </div>
-        <!-- END Column -->
-
-    </div>
-</div>
-</main>
+      </div>
+      <div class="col-md-5 my-5">
+        <cart v-on:pay="pay()" v-on:remove-from-cart="removeFromCart($event)" :items="cart"></cart>
+      </div>
 </template>
+
+<script>
+import products from "C:\\Windows\\System32\\projects\\login\\products.json";
+import Product from "../components/Product.vue";
+import Cart from "../components/Cart.vue";
+export default {
+  name: "app",
+  components: {
+    Product,
+    Cart
+  },
+  data() {
+    return {
+      products,
+      cart: []
+    };
+  },
+  methods: {
+    addToCart(product) {
+      this.cart.push(product);
+    },
+    isInCart(product) {
+      const item = this.cart.find(item => item.id === product.id);
+      if (item) {
+        return true;
+      }
+      return false;
+    },
+    removeFromCart(product) {
+      this.cart = this.cart.filter(item => item.id !== product.id);
+    },
+    pay() {
+      this.cart = [];
+      alert("Thanks! Shopping successfully completed. ");
+    }
+  }
+};
+</script>
+
+<style>
+body {
+  background-color: #dcdcdc;
+}
+</style>
