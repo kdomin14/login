@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "title": "Dak Prescott",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61nz3aP3LUL._AC_SL1116_.jpg",
+      "price": "105"
+    },
+    {
+      "id": "2",
+      "title": "Ezekiel Elliott",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Eoz4oxIAL._AC_SL1117_.jpg",
+      "price": "140"
+    },
+    {
+      "id": "3",
+      "title": "Amari Cooper",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61c0TeXv6bL._AC_SL1111_.jpg",
+      "price": "120"
+    },
+    {
+      "id": "4",
+      "title": "Patrick Mahomes",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61jPHuuao7L._AC_SY445_.jpg",
+      "price": "140"
+    },
+    {
+      "id": "5",
+      "title": "Aaron Rodgers",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61o6LkV-OuL._AC_SL1114_.jpg",
+      "price": "140"
+    },
+    {
+      "id": "6",
+      "title": "Tom Brady",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61WbJoFnAiL._AC_SL1113_.jpg",
+      "price": "140"
+    }
+  ]

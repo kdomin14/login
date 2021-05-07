@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "title": "Mookie Betts",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61kL6RaW0dL._AC_SL1116_.jpg",
+      "price": "105"
+    },
+    {
+      "id": "2",
+      "title": "Aaron Judge",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/715RlD-z3wL._AC_SL1048_.jpg",
+      "price": "140"
+    },
+    {
+      "id": "3",
+      "title": "Miguel Cabrera",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/514EP3OsJmL._AC_.jpg",
+      "price": "120"
+    },
+    {
+      "id": "4",
+      "title": "Mike Trout",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ORVZ7I4dL._AC_SY445_.jpg",
+      "price": "140"
+    },
+    {
+      "id": "5",
+      "title": "Juan Soto",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/717fJBO4rSL._AC_SY445_.jpg",
+      "price": "140"
+    },
+    {
+      "id": "6",
+      "title": "Gerrit Cole",
+      "image": "https://beckett-www.s3.amazonaws.com/news/news-content/uploads/2019/10/2013-Bowman-Chrome-Gerrit-Cole-RC.jpg",
+      "price": "140"
+    }
+  ]

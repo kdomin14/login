@@ -5,7 +5,7 @@
         {{ item.title }} - $ {{ item.price }}
         <button
           @click="$emit('remove-from-cart',item)"
-          class="btn badge badge-warning float-right"
+          class="btn badge bg-red-700 badge-warning float-right"
         >Remove</button>
       </li>
     </ul>

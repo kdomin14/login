@@ -8,31 +8,31 @@
     {
       "id": "2",
       "title": "Allen Iverson",
-      "image": "https://bit.ly/2GsWuwA",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/519blI8P9cL._AC_SY445_.jpg",
       "price": "140"
     },
     {
       "id": "3",
-      "title": "Loka Doncic",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61ISFY1cL-L._SL1000_.jpg",
+      "title": "Luka Doncic",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71aG6WjsijL._AC_SL1051_.jpg",
       "price": "120"
     },
     {
       "id": "4",
       "title": "Scottie Pippen",
-      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h7f/h4a/11988377665566.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61A6oin2g5L._AC_SL1113_.jpg",
       "price": "140"
     },
     {
       "id": "5",
       "title": "Stephen Curry",
-      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h7f/h4a/11988377665566.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51oThbpb8mL._AC_.jpg",
       "price": "140"
     },
     {
       "id": "6",
       "title": "Zion Willamson",
-      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h7f/h4a/11988377665566.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71V5rCn5HbL._AC_SL1050_.jpg",
       "price": "140"
     }
   ]
